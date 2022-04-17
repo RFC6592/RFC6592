@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning to pass the PNPT certification (Pratical Ethical Hacking, Windows Privilege Escalation, Linux Privilege Escalation, Open-Source Intelligence)
+- 🌱 Studying for the PNPT certification (Pratical Ethical Hacking, Windows Privilege Escalation, Linux Privilege Escalation, Open-Source Intelligence)
 - 📫 How to reach me: ezzayris@gmail.com
 
 ⭐GitHub Stats
