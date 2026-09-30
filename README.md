@@ -1,16 +1,26 @@
-## Hi there 👋
+![Alt text](https://im0s.com/assets/img/github_banner.png)
 
-<!--
-**RFC6592/RFC6592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sami Ezzayri
 
-Here are some ideas to get you started:
+I’m a cybersecurity professional focused on penetration testing, web application security, vulnerability research, threat hunting, and security monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I publish technical research, security write-ups, penetration testing findings, and personal projects on this blog under the alias im0s / RFC6592.
+
+My areas of interest include:
+
+    Web Application Penetration Testing
+    Vulnerability research and exploitation
+    Red Teaming & Attack Simulation
+    Threat Hunting & Detection Engineering
+    Digital Forensics & Incident Investigation
+    CTFs and security research
+
+Find me online
+
+    Website: https://im0s.com
+    GitHub: https://github.com/RFC6592
+    LinkedIn: www.linkedin.com/in/sami-ezzayri
+
+For professional inquiries, research discussions, or collaboration:
+
+**Email:** available on [im0s.com](https://im0s.com)
